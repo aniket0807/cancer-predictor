@@ -31,6 +31,8 @@ Thirty key cell nucleus features:
 Diagnosis label:
 -M = Malignant (1), B = Benign (0)
 
+Live: https://breast-cancer--predictor.streamlit.app/
+
 Installation
 bash
 # Clone the repository
